@@ -166,20 +166,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 - We thank the contributors to the tree-sitter and DroidBot projects
 - Special thanks to our test subjects and evaluators
 
-## Citation
 
-If you use LLdroid in your research, please cite our paper:
-
-```
-@article{lldroid2026,
-  title={LLdroid: LLM-based Framework for Detecting Data Races in Android Applications},
-  author={Your Name and Collaborators},
-  journal={Journal of Software Engineering},
-  year={2026},
-  publisher={IEEE}
-}
-```
-
-
-
-*LLdroid: Making Android applications more reliable through LLM-powered concurrency analysis.*
